@@ -1,4 +1,4 @@
-** Total Recall in Industrial Anomaly Detection with PatchCore**
+# <span style="font-size: larger;">Total Recall in Industrial Anomaly Detection with PatchCore</span>
 
 ```markdown
 
