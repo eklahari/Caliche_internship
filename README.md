@@ -1,7 +1,7 @@
-Certainly! Here's the consolidated markdown version:
+** Total Recall in Industrial Anomaly Detection with PatchCore**
 
 ```markdown
-# Total Recall in Industrial Anomaly Detection with PatchCore
+
 
 ## Overview
 PatchCore is a powerful method for image-level anomaly detection and pixel-level anomaly localization. This repository provides the implementation along with various pretrained models that achieve high-performance metrics.
@@ -61,5 +61,12 @@ dataset --resize 366 --imagesize 320 "${dataset_flags[@]}" mvtec $datapath
 ### Evaluating a Pretrained PatchCore Model
 - Run `bin/load_and_evaluate_patchcore.py` with the path to pretrained models for evaluation.
 ```
+-@misc{roth2021total,
+ - title={Towards Total Recall in Industrial Anomaly Detection},
+ - author={Karsten Roth and Latha Pemula and Joaquin Zepeda and Bernhard Schölkopf and Thomas Brox and Peter Gehler},
+ - year={2021},
+ - eprint={2106.08265},
+ - archivePrefix={arXiv},
+ - primaryClass={cs.CV}
+}
 
-Feel free to copy and use this consolidated version on your website or Markdown-supported platform.
